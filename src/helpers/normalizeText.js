@@ -9,7 +9,7 @@
 // version: 03
 //
 
-import { PixelRatio, Dimensions } from 'react-native';
+import { PixelRatio, Dimensions } from 'react-native-web';
 
 const pixelRatio = PixelRatio.get();
 const deviceHeight = Dimensions.get('window').height;

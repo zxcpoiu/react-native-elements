@@ -1,7 +1,7 @@
 /* eslint-disable jest/no-identical-title */
 import React from 'react';
 import { shallow } from 'enzyme';
-import { View } from 'react-native';
+import { View } from 'react-native-web';
 import toJson from 'enzyme-to-json';
 
 import theme from '../../config/theme';

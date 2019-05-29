@@ -1,6 +1,6 @@
 import React from 'react';
 import PropTypes from 'prop-types';
-import { StyleSheet, Text, View, TouchableOpacity } from 'react-native';
+import { StyleSheet, Text, View, TouchableOpacity } from 'react-native-web';
 
 import { ViewPropTypes, withTheme } from '../config';
 import { renderNode } from '../helpers';

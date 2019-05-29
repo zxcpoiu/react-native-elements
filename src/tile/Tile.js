@@ -6,7 +6,7 @@ import {
   Dimensions,
   Image,
   TouchableOpacity,
-} from 'react-native';
+} from 'react-native-web';
 
 import {
   BackgroundImage,

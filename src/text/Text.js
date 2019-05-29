@@ -1,6 +1,6 @@
 import React from 'react';
 import PropTypes from 'prop-types';
-import { Text, StyleSheet, Platform } from 'react-native';
+import { Text, StyleSheet, Platform } from 'react-native-web';
 
 import { fonts, withTheme } from '../config';
 import normalize from '../helpers/normalizeText';

@@ -6,7 +6,7 @@ import {
   Switch,
   TouchableHighlight,
   View,
-} from 'react-native';
+} from 'react-native-web';
 
 import { renderNode, nodeType } from '../helpers';
 import { ViewPropTypes, TextPropTypes, withTheme } from '../config';

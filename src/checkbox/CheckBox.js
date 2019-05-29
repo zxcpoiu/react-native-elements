@@ -7,7 +7,7 @@ import {
   View,
   Platform,
   Text as NativeText,
-} from 'react-native';
+} from 'react-native-web';
 
 import TextElement from '../text/Text';
 import CheckBoxIcon from './CheckBoxIcon';

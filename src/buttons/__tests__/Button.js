@@ -1,6 +1,6 @@
 /* eslint-disable no-console */
 import React from 'react';
-import { ActivityIndicator } from 'react-native';
+import { ActivityIndicator } from 'react-native-web';
 import { shallow } from 'enzyme';
 import toJson from 'enzyme-to-json';
 import { create } from 'react-test-renderer';

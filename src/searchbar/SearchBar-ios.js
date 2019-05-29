@@ -8,7 +8,7 @@ import {
   View,
   ActivityIndicator,
   Text,
-} from 'react-native';
+} from 'react-native-web';
 
 import ViewPropTypes from '../config/ViewPropTypes';
 import Input from '../input/Input';

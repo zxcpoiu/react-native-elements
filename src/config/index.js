@@ -1,4 +1,4 @@
-import { Text } from 'react-native';
+import { Text } from 'react-native-web';
 import { getStatusBarHeight } from 'react-native-status-bar-height';
 
 import BackgroundImage from './BackgroundImage';

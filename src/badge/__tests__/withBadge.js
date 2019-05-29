@@ -1,5 +1,5 @@
 import React from 'react';
-import { TouchableOpacity } from 'react-native';
+import { TouchableOpacity } from 'react-native-web';
 import { shallow } from 'enzyme';
 import toJson from 'enzyme-to-json';
 

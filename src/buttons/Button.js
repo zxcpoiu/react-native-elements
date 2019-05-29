@@ -8,7 +8,7 @@ import {
   ActivityIndicator,
   Platform,
   StyleSheet,
-} from 'react-native';
+} from 'react-native-web';
 
 import { withTheme, ViewPropTypes } from '../config';
 import { renderNode, nodeType, conditionalStyle, color } from '../helpers';

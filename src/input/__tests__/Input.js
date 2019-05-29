@@ -1,7 +1,7 @@
 /* eslint-disable no-console */
 import React from 'react';
 import { shallow } from 'enzyme';
-import { View, TextInput, Image } from 'react-native';
+import { View, TextInput, Image } from 'react-native-web';
 import toJson from 'enzyme-to-json';
 import { create } from 'react-test-renderer';
 

@@ -7,7 +7,7 @@ import {
   Image,
   StyleSheet,
   Dimensions,
-} from 'react-native';
+} from 'react-native-web';
 
 import { ViewPropTypes, BackgroundImage, withTheme } from '../config';
 import { renderNode } from '../helpers';

@@ -6,7 +6,7 @@ import {
   Platform,
   StyleSheet,
   View,
-} from 'react-native';
+} from 'react-native-web';
 
 import { nodeType } from '../helpers';
 import { ViewPropTypes, withTheme } from '../config';

@@ -8,7 +8,7 @@ import {
   TouchableOpacity,
   Platform,
   StyleSheet,
-} from 'react-native';
+} from 'react-native-web';
 
 import { ViewPropTypes, withTheme } from '../config';
 import { normalizeText, color } from '../helpers';

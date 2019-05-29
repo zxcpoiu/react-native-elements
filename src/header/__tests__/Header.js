@@ -1,5 +1,5 @@
 import React from 'react';
-import { Button, ImageBackground } from 'react-native';
+import { Button, ImageBackground } from 'react-native-web';
 import { shallow } from 'enzyme';
 import toJson from 'enzyme-to-json';
 import { create } from 'react-test-renderer';

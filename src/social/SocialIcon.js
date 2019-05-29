@@ -7,7 +7,7 @@ import {
   TouchableHighlight,
   ActivityIndicator,
   Text as NativeText,
-} from 'react-native';
+} from 'react-native-web';
 
 import Icon from 'react-native-vector-icons/FontAwesome';
 import Text from '../text/Text';

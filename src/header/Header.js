@@ -8,7 +8,7 @@ import {
   View,
   ImageBackground,
   Image,
-} from 'react-native';
+} from 'react-native-web';
 
 import { ViewPropTypes, getStatusBarHeight, withTheme } from '../config';
 import { renderNode, nodeType } from '../helpers';

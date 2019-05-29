@@ -8,7 +8,7 @@ import {
   Easing,
   Platform,
   StyleSheet,
-} from 'react-native';
+} from 'react-native-web';
 
 import { nodeType, renderNode } from '../helpers';
 import { fonts, withTheme, ViewPropTypes, TextPropTypes } from '../config';

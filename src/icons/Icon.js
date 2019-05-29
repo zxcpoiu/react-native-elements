@@ -6,7 +6,7 @@ import {
   View,
   StyleSheet,
   Text as NativeText,
-} from 'react-native';
+} from 'react-native-web';
 
 import getIconType from '../helpers/getIconType';
 import { ViewPropTypes, withTheme } from '../config';

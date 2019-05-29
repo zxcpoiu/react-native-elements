@@ -1,6 +1,6 @@
 import React from 'react';
 import PropTypes from 'prop-types';
-import { ActivityIndicator, View, Text, StyleSheet } from 'react-native';
+import { ActivityIndicator, View, Text, StyleSheet } from 'react-native-web';
 
 import { ViewPropTypes } from '../config';
 import { renderNode, nodeType } from '../helpers';

@@ -6,7 +6,7 @@ import {
   Platform,
   TouchableWithoutFeedback,
   Modal,
-} from 'react-native';
+} from 'react-native-web';
 
 import { ViewPropTypes, withTheme } from '../config';
 import { ScreenHeight, ScreenWidth } from '../helpers';

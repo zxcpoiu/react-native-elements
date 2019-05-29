@@ -10,7 +10,7 @@ import {
   TouchableHighlight,
   TouchableNativeFeedback,
   TouchableWithoutFeedback,
-} from 'react-native';
+} from 'react-native-web';
 
 import { withTheme, ViewPropTypes } from '../config';
 import { renderNode, nodeType } from '../helpers';
